@@ -1,7 +1,6 @@
 # dynamodb_clintrial
 
-Needed: AWS Account and credentials
-        Jupyter Notebook access
+### Needed: AWS Account and credentials, Jupyter Notebook access
 
 The purpose of this notebook is to demonstrate the value of schema-less NoSQL databases and a use case for clinical trial data domains. 
 Clinical trial domains very often are customized to the study with a core base of similar variables, thus making them not suitable for traditional relational databases. 
