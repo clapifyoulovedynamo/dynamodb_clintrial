@@ -1,4 +1,4 @@
-# dynamodb_clintrial
+# DynamoDB for Clinical Trials
 
 ### Needed: AWS Account and credentials, Jupyter Notebook access
 
