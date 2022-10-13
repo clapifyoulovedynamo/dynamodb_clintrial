@@ -11,3 +11,5 @@ This is valuable for getting multiple data domains stored in the same table with
 As long as the primary key and sort key are present and unique, any and all data can be inserted into an item (row) as attributes. So it doesn't matter if one row of your data has 25 columns and the next row has 50. 
 
 This non-relational approach has manifold benefits for stacking clinical data domains that may not fit exactly into a relational database. 
+![Alt Text](https://i.imgur.com/KSAYqOg.gif)
+
